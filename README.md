@@ -47,15 +47,6 @@ Visit our website to see animations and images that bring our AI-powered solutio
 
 ---
 
-## 🛠️ Technologies Used
-- Python
-- TensorFlow & PyTorch
-- Natural Language Processing (NLP)
-- Machine Learning Algorithms
-- APIs for Seamless Integration
-
----
-
 ## 🤝 Get Involved
 We welcome collaborations, feedback, and ideas! Feel free to explore, fork, and contribute to our repository.
 
