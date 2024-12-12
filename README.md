@@ -61,12 +61,4 @@ We welcome collaborations, feedback, and ideas! Feel free to explore, fork, and 
 
 ---
 
-## 📞 Contact Us
-For more details or queries, please reach out:
-- **Website**: [YourWebsite.com](https://yourwebsite.com)
-- **Email**: contact@yourwebsite.com
-- **LinkedIn**: [YourCompany](https://linkedin.com/yourcompany)
-
----
-
 Thank you for visiting! Let’s shape the future of AI together. 🌐
