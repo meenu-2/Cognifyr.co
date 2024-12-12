@@ -46,10 +46,4 @@ Our tools are designed to:
 Visit our website to see animations and images that bring our AI-powered solutions to life. Dive into the possibilities with interactive visuals that make exploring our offerings engaging and insightful.
 
 ---
-
-## 🤝 Get Involved
-We welcome collaborations, feedback, and ideas! Feel free to explore, fork, and contribute to our repository.
-
----
-
 Thank you for visiting! Let’s shape the future of AI together. 🌐
